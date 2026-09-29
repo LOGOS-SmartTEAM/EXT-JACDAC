@@ -1,0 +1,35 @@
+{
+    "name": "fifa-jacdac",
+    "version": "0.0.0",
+    "description": "Easy blocks for KittenBot Jacdac modules (button, dial, slider, light sensor, RGB ring) on micro:bit V2",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "jacdac": "github:jacdac/pxt-jacdac#v1.9.42",
+        "jacdac-button": "github:jacdac/pxt-jacdac/button#v1.9.42",
+        "jacdac-rotary-encoder": "github:jacdac/pxt-jacdac/rotary-encoder#v1.9.42",
+        "jacdac-potentiometer": "github:jacdac/pxt-jacdac/potentiometer#v1.9.42",
+        "jacdac-light-level": "github:jacdac/pxt-jacdac/light-level#v1.9.42",
+        "jacdac-led": "github:jacdac/pxt-jacdac/led#v1.9.42"
+    },
+    "files": [
+        "README.md",
+        "drawers.ts",
+        "icons.jres",
+        "button.ts",
+        "dial.ts",
+        "slider.ts",
+        "light.ts",
+        "ring.ts",
+        "charts.ts",
+        "_locales/es-ES/fifa-jacdac-strings.json",
+        "_locales/es-ES/fifa-jacdac-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
