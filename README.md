@@ -18,6 +18,14 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/LOGOS-SmartTEAM/EXT-JACDAC** and import
 
+## Tutorial
+
+Step-by-step tutorial (in Spanish) for the keycap button:
+[open the button tutorial](https://makecode.microbit.org/?lang=es-ES#tutorial:https://github.com/LOGOS-SmartTEAM/EXT-JACDAC/tutorial-boton)
+
+> Tutorial paso a paso del **Botón Jacdac**:
+> [abrir el tutorial](https://makecode.microbit.org/?lang=es-ES#tutorial:https://github.com/LOGOS-SmartTEAM/EXT-JACDAC/tutorial-boton)
+
 ## Hardware
 
 * micro:bit **V2** (Jacdac does not work on V1)

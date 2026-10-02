@@ -1,6 +1,6 @@
 {
     "name": "fifa-jacdac",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Easy blocks for KittenBot Jacdac modules (button, dial, slider, light sensor, RGB ring) on micro:bit V2",
     "license": "MIT",
     "dependencies": {
